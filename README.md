@@ -11,6 +11,9 @@ This repo contains the code for
 
 All the codes have it's corresponding test scripts as well. Code coverage can be seen on console as well as on html file.
 
+### TO-DO
+- Do Feature Engineering properly for setting the dependent variables more clear
+- Use better input and output variable to align the actual vs. prediction values
 
 ## Run Commands:
 
